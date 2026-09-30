@@ -1,4 +1,4 @@
-cambio hecho en mi pc
+cambio hecho en mi compu
 Este es un cambio nuevo de code
 
 def funcion2()
@@ -7,3 +7,10 @@ def funcion2()
 
 def funcion()
     print mensaje;
+
+
+
+def funcion8()
+
+
+def funcion20()
