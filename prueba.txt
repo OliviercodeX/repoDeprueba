@@ -1,5 +1,5 @@
 cambio hecho en mi pc
-Este es un cambio nuevo de code
+un cambio
 
 def funcion2()
  print mensaje;
@@ -7,3 +7,9 @@ def funcion2()
 
 def funcion()
     print mensaje;
+
+
+def funcion3()
+
+
+def funcion4()
