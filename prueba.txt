@@ -1,2 +1,5 @@
 hola soy mainor
 Este es un cambio nuevo de code
+
+def funcion()
+    print mensaje;
